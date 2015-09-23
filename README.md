@@ -13,4 +13,4 @@ Two strip examples:
 [ 147, 206, 52, 240, 300 ] should return 506 units, as mining the second and fifth squares is optimal [ x, 206, x, x, 300 ]
 
 
-I use dynamic programming approch and done the unit test for these two test cases.
+<font color="red">**I use dynamic programming approch and done the unit test for these two test cases.**</font>
